@@ -1,54 +1,61 @@
-🧾 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐏𝐫𝐨𝐣𝐞𝐜𝐭: 𝐂𝐨𝐠𝐧𝐢𝐳𝐚𝐧𝐭 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝
-
+📊 𝐏𝐨𝐰𝐞𝐫 𝐁𝐈 𝐏𝐫𝐨𝐣𝐞𝐜𝐭: 𝐌𝐨𝐛𝐢𝐥𝐞 𝐒𝐚𝐥𝐞𝐬 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝
 📘 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰
 
-This Power BI project — Cognizant Business Insights Dashboard — is a simulated business analytics report designed to deliver key insights across workforce, finance, and operations.
-The dashboard showcases how enterprise-level organizations like Cognizant can monitor performance KPIs and make data-driven decisions efficiently.
+This Power BI Dashboard provides detailed insights into mobile sales performance according to year and city wise.
+It visualizes the sales trends, customer behavior, and brand-wise performance across multiple dimensions — helping business stakeholders identify growth opportunities and optimize sales strategies.
 
 🎯 𝐎𝐛𝐣𝐞𝐜𝐭𝐢𝐯𝐞
 
-To design an interactive Power BI dashboard that provides a 360° view of:
-Employee demographics and departmental distribution
-Attrition and retention analysis
-Revenue performance and regional insights
-Project performance and financial health
-🧩 Key Features
+To analyze mobile sales data and deliver an interactive, visually engaging dashboard that answers:
 
-✅ 𝟒 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐯𝐞 𝐏𝐚𝐠𝐞𝐬
+Which brands performed best in terms of units sold?
 
-1️⃣ Home Page – Navigation overview with key metrics summary.
+How do customer ratings compare across brands?
 
-2️⃣ Executive Summary – KPIs like revenue, attrition %, headcount trends by year and region.
+What are the popular payment methods used by customers?
 
-3️⃣ Workforce Insights – Department-wise employee strength, tenure, gender diversity.
+How is sales performance distributed across the city?
 
-4️⃣ Financials & Projects – Revenue trends, project satisfaction, and cost vs. budget visualization.
+🧩 𝐊𝐞𝐲 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬
 
-✅ Dynamic Visuals
+✅ Vivo and OnePlus are the top-performing brands in both sales volume and customer satisfaction.
 
-Custom navigation buttons between pages
-Slicers for Year, Region, Department
-Card visuals for KPI tracking
-DAX-based calculations for YoY change & attrition rate
+✅ Bangalore South region shows the highest sales concentration.
 
-✅ 𝐃𝐚𝐭𝐚 𝐒𝐭𝐨𝐫𝐲𝐭𝐞𝐥𝐥𝐢𝐧𝐠
+✅ Digital payments are the most common payment mode.
 
-Transforms raw HR and financial data into strategic insights
-Highlights business improvement areas through visuals
+✅ Year 2021 contributed significantly to total units sold.
 
-🛠️ 𝐓𝐨𝐨𝐥𝐬 & 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬
+🛠️ 𝐓𝐨𝐨𝐥𝐬 & 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐔𝐬𝐞𝐝
 
-Tool	Purpose
-Power BI Desktop	Data visualization & report building
-DAX	Calculated measures & KPIs
-Power Query Editor	Data cleaning & transformation
-Excel / CSV	Data source
-GitHub	Portfolio hosting
+Power BI Desktop	Data modeling, visualization, and dashboard creation
 
-🧠 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐎𝐮𝐭𝐜𝐨𝐦𝐞𝐬
+Power Query Editor	Data transformation and cleaning
 
-•	Building multi-page dashboards with navigation
-•	Creating relationships and handling unlinked tables via Bridge tables
-•	Designing professional Power BI UI for business storytelling
-•	Practicing enterprise-style dashboard development
+DAX (Data Analysis Expressions)	Created calculated measures for KPIs
 
+Excel / CSV	Source data for mobile sales and customer ratings
+
+GitHub	Project documentation and sharing
+
+📊 𝐁𝐮𝐬𝐢𝐧𝐞𝐬𝐬 𝐈𝐦𝐩𝐚𝐜𝐭
+
+This dashboard can help:
+
+Identify top-performing brands & cities.
+
+Understand customer satisfaction trends.
+
+Support data-driven marketing and inventory decisions.
+
+Track yearly performance for business forecasting.
+
+🚀 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐎𝐮𝐭𝐜𝐨𝐦𝐞𝐬
+
+Built interactive Power BI dashboards from raw data.
+
+Applied DAX for creating calculated measures and KPIs.
+
+Designed professional layouts using consistent color palettes and slicers.
+
+Used Power BI’s geospatial features for location-based insights.
